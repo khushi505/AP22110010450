@@ -81,14 +81,21 @@ The frontend is built with React.js and provides a UI to interact with the backe
    
 # Output
 
-### Backend
+## Backend
 ![Screenshot 2025-03-20 202503](https://github.com/user-attachments/assets/16b2ab70-6acb-469a-910e-e2e3ab6a7c70)
 ![Screenshot 2025-03-20 202556](https://github.com/user-attachments/assets/840e0a7f-cbb3-417e-b308-77eb603fa6bd)
 ![Screenshot 2025-03-20 202630](https://github.com/user-attachments/assets/53e0efc8-71bd-4fb4-9825-678a2b9fc0e7)
 ![Screenshot 2025-03-20 203556](https://github.com/user-attachments/assets/bf4b3bf5-bfdd-4bb3-971c-9729644f8a8a)
 
-### Frontend 
+## Frontend 
 ![WhatsApp Image 2025-03-20 at 8 47 23 PM](https://github.com/user-attachments/assets/3bdaf9fe-8c28-447a-b545-514632621d5c)
 ![WhatsApp Image 2025-03-20 at 8 47 23 PM (1)](https://github.com/user-attachments/assets/51bd822a-8c65-4dbb-8839-ef4fd94bf239)
 ![WhatsApp Image 2025-03-20 at 8 47 24 PM](https://github.com/user-attachments/assets/eb6eda16-4e6f-49e2-8bf9-7053941a0459)
 ![WhatsApp Image 2025-03-20 at 8 47 24 PM (1)](https://github.com/user-attachments/assets/274ee77b-cf57-4a87-a4d2-c0676367e8d4)
+
+### Phone View
+
+![WhatsApp Image 2025-03-20 at 9 09 58 PM](https://github.com/user-attachments/assets/0d347b27-c570-4fe6-b7f4-ff0ed651d1dd)
+![WhatsApp Image 2025-03-20 at 9 09 59 PM](https://github.com/user-attachments/assets/2aef4e38-ea06-44de-a648-31f134faa209)
+![WhatsApp Image 2025-03-20 at 9 09 59 PM (1)](https://github.com/user-attachments/assets/1a14c1c9-f940-4fbf-bdf4-1be926a3f276)
+![WhatsApp Image 2025-03-20 at 9 09 59 PM (2)](https://github.com/user-attachments/assets/b8f451e9-f70b-457b-8a7c-34070cd347e4)
