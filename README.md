@@ -30,4 +30,7 @@ The frontend is built with React.js and provides a UI to interact with the backe
 ![Screenshot 2025-03-20 203556](https://github.com/user-attachments/assets/bf4b3bf5-bfdd-4bb3-971c-9729644f8a8a)
 
 ### Frontend 
-
+![WhatsApp Image 2025-03-20 at 8 47 23 PM](https://github.com/user-attachments/assets/3bdaf9fe-8c28-447a-b545-514632621d5c)
+![WhatsApp Image 2025-03-20 at 8 47 23 PM (1)](https://github.com/user-attachments/assets/51bd822a-8c65-4dbb-8839-ef4fd94bf239)
+![WhatsApp Image 2025-03-20 at 8 47 24 PM](https://github.com/user-attachments/assets/eb6eda16-4e6f-49e2-8bf9-7053941a0459)
+![WhatsApp Image 2025-03-20 at 8 47 24 PM (1)](https://github.com/user-attachments/assets/274ee77b-cf57-4a87-a4d2-c0676367e8d4)
