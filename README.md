@@ -93,9 +93,9 @@ The frontend is built with React.js and provides a UI to interact with the backe
 ![WhatsApp Image 2025-03-20 at 8 47 24 PM](https://github.com/user-attachments/assets/eb6eda16-4e6f-49e2-8bf9-7053941a0459)
 ![WhatsApp Image 2025-03-20 at 8 47 24 PM (1)](https://github.com/user-attachments/assets/274ee77b-cf57-4a87-a4d2-c0676367e8d4)
 
-### Phone View
+## Phone View
 
-![WhatsApp Image 2025-03-20 at 9 09 58 PM](https://github.com/user-attachments/assets/0d347b27-c570-4fe6-b7f4-ff0ed651d1dd)
-![WhatsApp Image 2025-03-20 at 9 09 59 PM](https://github.com/user-attachments/assets/2aef4e38-ea06-44de-a648-31f134faa209)
-![WhatsApp Image 2025-03-20 at 9 09 59 PM (1)](https://github.com/user-attachments/assets/1a14c1c9-f940-4fbf-bdf4-1be926a3f276)
-![WhatsApp Image 2025-03-20 at 9 09 59 PM (2)](https://github.com/user-attachments/assets/b8f451e9-f70b-457b-8a7c-34070cd347e4)
+<img src="https://github.com/user-attachments/assets/0d347b27-c570-4fe6-b7f4-ff0ed651d1dd" width="300" />
+<img src="https://github.com/user-attachments/assets/2aef4e38-ea06-44de-a648-31f134faa209" width="300" />
+<img src="https://github.com/user-attachments/assets/1a14c1c9-f940-4fbf-bdf4-1be926a3f276" width="300" />
+<img src="https://github.com/user-attachments/assets/b8f451e9-f70b-457b-8a7c-34070cd347e4" width="300" />
